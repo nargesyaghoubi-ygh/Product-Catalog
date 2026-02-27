@@ -2,13 +2,6 @@
 #  Product Catalog
 
 A simple **Product Catalog application** built with modern web technologies. This project can serve as a template for developing product management systems or online stores.
-
----
-
-## 📌 Overview
-
-This repository contains a **Product Catalog app** designed to manage and display products. The project demonstrates a basic web application structure, including product listing, categorization, and simple UI for showcasing products.
-
 ---
 
 ## 🚀 Features
@@ -41,7 +34,7 @@ git clone https://github.com/nargesyaghoubi-ygh/Product-Catalog.git
 2. Navigate to project folder:
 
 `
-cd Countries-Explorer
+cd Product-Catalog
 `
 
 
